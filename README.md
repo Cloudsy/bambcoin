@@ -1,0 +1,2 @@
+# bambcoin
+A new altcoin
